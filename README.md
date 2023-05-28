@@ -17,11 +17,10 @@ Desde já, agradeço pelo interesse.
 - 😄 Pronomes: Ele/Dele
 ##
 
-##
 <div>
   <a href="https://github.com/natanD1">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=natanD1&show_icons=true&theme=merko" />
-     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanD1&layout=compact&theme=merko" />  
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanD1&show_icons=true&theme=merko" />
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanD1&layout=compact&theme=merko" />  
   </a>
 </div>
 
