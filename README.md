@@ -12,7 +12,7 @@ Acredito firmemente que o conhecimento nunca é demais.
 Desde já, agradeço pelo interesse.
 ##
 - 🔭 Atualmente estou trabalhando como Suporte Técnico na empresa CEJAM
-- 🌱 Estudando HTML & CSS
+- 🌱 Estudando HTML | CSS | JAVASCRIPT |
 - 📫 Contate-me no e-mail: nsdourado12@gmail.com
 - 😄 Pronomes: Ele/Dele
 ##
