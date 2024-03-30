@@ -1,18 +1,28 @@
 ### Olá Mundo! Eu sou o Natan Dourado 😉👋
-Bem-vindo ao meu perfil! Me chamo Natan Dourado, tenho 21 anos e moro na cidade de São Paulo.
+// PT-BR
+🌐 Olá rede, sou Natan Dourado e seja bem vindo(a) ao meu perfil do LinkedIn, sou um entusiasta da tecnologia em constante busca por desafios empolgantes e soluções inovadoras! Atualmente, estou trilhando meu caminho acadêmico no bacharelado em Ciências da Computação na Universidade FAM.
 
-Desde a infância, sou apaixonado por tecnologia, sempre me aventurando em programas de alto e baixo nível de linguagem. Acredito que a programação seja algo grandioso para mim, pois impactará diretamente a maneira de como vivemos no futuro. Embora não possua experiência profissional como desenvolvedor/programador, estou em busca de uma nova oportunidade para desfrutar da lógica por trás dos programas empresariais.
+📚 No momento, estou imerso no universo da Programação Web, explorando as mais recentes tendências e tecnologias que impulsionam a evolução da internet. Minha jornada acadêmica tem sido uma mistura de teoria e prática, utilizando as tecnologias HTML | CSS | JavaScript fazendo muitos projetos que visa inovar no mercado.
 
-Atualmente, estou cursando Ciências da Computação (Bacharelado) na Universidade FAM - Campus Paulista. O conhecimento que tenho absorvido nesse curso tem ampliado minhas ideias para o desenvolvimento de novos projetos.
+ ✅ Estou sempre aberto a oportunidades de aprendizado, colaboração e crescimento. Seja para discutir projetos inovadores, explorar novas tecnologias como HTML, CSS e JavaScript, ou trocar ideias sobre o mundo da computação, estou pronto para conectar e colaborar!
 
-Estou empenhado em oferecer aos empregadores um desempenho bom, funcional e organizado.
-
-Acredito firmemente que o conhecimento nunca é demais.
+Acredito firmemente que o conhecimento nunca é demais 📘🤓.
 
 Desde já, agradeço pelo interesse.
+
+//EN-US
+🌐 Hello network, I'm Natan Dourado and welcome to my LinkedIn profile. I'm a technology enthusiast constantly seeking exciting challenges and innovative solutions! Currently, I'm pursuing my academic path in Computer Science at FAM University.
+
+📚 Right now, I'm immersed in the world of Web Programming, exploring the latest trends and technologies driving the evolution of the internet. My academic journey has been a blend of theory and practice, utilizing HTML | CSS | JavaScript technologies to undertake numerous projects aimed at innovating in the market.
+
+✅ I'm always open to opportunities for learning, collaboration, and growth. Whether it's discussing innovative projects, exploring new technologies like HTML, CSS, and JavaScript, or exchanging ideas about the computing world, I'm ready to connect and collaborate!
+
+I firmly believe that knowledge is never too much 📘🤓.
+
+Thank you for your interest in advance.
 ##
 - 🔭 Atualmente estou trabalhando como Suporte Técnico na empresa CEJAM - Centro de Estudos Doutor João Amorim
-- 🌱 Estudando HTML | CSS | JAVASCRIPT |
+- 🌱 Estudando Desenvolvemento Web
 - 📫 Contate-me no e-mail: nsdourado12@gmail.com
 - 😄 Pronomes: Ele/Dele
 ##
