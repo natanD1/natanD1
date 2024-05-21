@@ -4,7 +4,7 @@
 ##
 
 <div align="center">
-    <img width="350" title="akira" src="https://br.pinterest.com/pin/816699713666905985/"/>
+    <img title="akira" src="https://br.pinterest.com/pin/816699713666905985/"/>
 <div>
 ##
 - 🔭 Atualmente estou trabalhando como Suporte Técnico na empresa CEJAM - Centro de Estudos Doutor João Amorim
