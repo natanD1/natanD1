@@ -8,7 +8,7 @@ Desde já, agradeço pelo interesse.
 ##
 
 <div align="center">
-![d9db189a1c45b63cf2e26047ce086d69](https://github.com/natanD1/natanD1/assets/123882798/2cc75e15-bd0b-4902-84d8-537fc4dd7785)
+![d9db189a1c45b63cf2e26047ce086d69](https://github.com/natanD1/natanD1/assets/123882798/f55d5928-4204-45b1-9756-f48c1d12e6fa)
 </div>
 
 ##
