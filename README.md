@@ -1,11 +1,11 @@
 ### Bem vindo ao meu perfil 😉👋
 ##
-🌐 Olá rede, sou Natan Dourado e seja bem vindo(a), sou um entusiasta da tecnologia em constante busca por desafios empolgantes e soluções inovadoras! Atualmente, estou trilhando meu caminho acadêmico no bacharelado em Ciências da Computação na Universidade FAM.</br>📚 No momento, estou imerso no universo da Programação Web, explorando as mais recentes tendências e tecnologias que impulsionam a evolução da internet. Minha jornada acadêmica tem sido uma mistura de teoria e prática, utilizando as tecnologias HTML | CSS | JavaScript | REACT NATIVE| TYPESCRIPT fazendo muitos projetos que visa inovar no mercado.</br>✅ Estou sempre aberto a oportunidades de aprendizado, colaboração e crescimento. Seja para discutir projetos inovadores, explorar novas tecnologias como HTML, CSS e JavaScript, ou trocar ideias sobre o mundo da computação, estou pronto para conectar e colaborar!</br>😊 Acredito firmemente que o conhecimento nunca é demais 📘🤓.
-**Desde já, agradeço pelo interesse.**
+🌐 Olá rede, sou Natan Dourado e seja bem vindo(a), sou um entusiasta da tecnologia em constante busca por desafios empolgantes e soluções inovadoras! Atualmente, estou trilhando meu caminho acadêmico no bacharelado em Ciências da Computação na Universidade FAM.</br>📚 No momento, estou imerso no universo da Programação Web, explorando as mais recentes tendências e tecnologias que impulsionam a evolução da internet. Minha jornada acadêmica tem sido uma mistura de teoria e prática, utilizando as tecnologias HTML | CSS | JavaScript | REACT NATIVE| TYPESCRIPT fazendo muitos projetos que visa inovar no mercado.</br>✅ Estou sempre aberto a oportunidades de aprendizado, colaboração e crescimento. Seja para discutir projetos inovadores, explorar novas tecnologias como HTML, CSS e JavaScript, ou trocar ideias sobre o mundo da computação, estou pronto para conectar e colaborar!</br>😊 Acredito firmemente que o conhecimento nunca é demais 📘🤓.</br>**Desde já, agradeço pelo interesse.**
 ##
 
-![d9db189a1c45b63cf2e26047ce086d69](https://github.com/natanD1/natanD1/assets/123882798/f55d5928-4204-45b1-9756-f48c1d12e6fa)
-
+<div align="center">
+    <img width="350" title="akira" src="https://br.pinterest.com/pin/816699713666905985/"/>
+<div>
 ##
 - 🔭 Atualmente estou trabalhando como Suporte Técnico na empresa CEJAM - Centro de Estudos Doutor João Amorim
 - 🌱 Estudando Desenvolvemento Web e Mobile
