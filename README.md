@@ -16,7 +16,7 @@
 ##
 
 <div>
-  <a href="https://github.com/natanD1">
+  <a href="https://github.com/natanD1 align="center"">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanD1&show_icons=true&theme=tokyonight" />
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanD1&layout=compact&theme=tokyonight" />  
   </a>
