@@ -6,7 +6,9 @@
 
 ##
 
-![7ab47937d8c3e90e755abeaf0711c2e4](https://github.com/natanD1/natanD1/assets/123882798/fb3e0b7a-f7b8-44e5-a7fa-bf750ae7c4e7)  ![d9db189a1c45b63cf2e26047ce086d69](https://github.com/natanD1/natanD1/assets/123882798/479fcd43-c756-4fcf-be8c-fc2ff0d042e6)
+<h1 align="center">
+  <img src="https://github.com/natanD1/natanD1/assets/123882798/f6b90683-6cf6-44d4-a373-6b899ddada57">
+</h1>
 
 ##
 - 🔭 Atualmente estou trabalhando como Suporte Técnico na empresa CEJAM - Centro de Estudos Doutor João Amorim
@@ -15,13 +17,13 @@
 - 📞 Tel: +55 (11) 96385-6134
 ##
 
-<div>
+<div align="center">
   <a href="https://github.com/natanD1" align="center">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanD1&show_icons=true&theme=tokyonight" />
   </a>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -33,7 +35,7 @@
 </div>
 
 ##
-<div> 
+<div align="center"> 
     <a href="https://www.linkedin.com/in/natandourado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:nsdourado12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/inlovewithnatan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
