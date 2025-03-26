@@ -1,42 +1,56 @@
-### Bem vindo ao meu perfil 😉👋
-##
-<div text-align="justify">
-🌐 Olá rede, sou Natan Dourado e seja bem vindo(a), sou um entusiasta da tecnologia em constante busca por desafios empolgantes e soluções inovadoras! Atualmente, estou trilhando meu caminho acadêmico no bacharelado em Ciências da Computação na Universidade FAM.</br>📚 No momento, estou imerso no universo da Programação Web, explorando as mais recentes tendências e tecnologias que impulsionam a evolução da internet. Minha jornada acadêmica tem sido uma mistura de teoria e prática, utilizando as tecnologias HTML | CSS | JavaScript | REACT NATIVE| TYPESCRIPT fazendo muitos projetos que visa inovar no mercado.</br>✅ Estou sempre aberto a oportunidades de aprendizado, colaboração e crescimento. Seja para discutir projetos inovadores, explorar novas tecnologias como HTML, CSS e JavaScript, ou trocar ideias sobre o mundo da computação, estou pronto para conectar e colaborar!</br>😊 Acredito firmemente que o conhecimento nunca é demais 📘🤓.</br>Desde já, agradeço pelo interesse. 
-</div>
-
-##
-
-<h1 align="center">
-  <img src="https://github.com/natanD1/natanD1/assets/123882798/f6b90683-6cf6-44d4-a373-6b899ddada57">
-</h1>
-
-##
-- 🔭 Atualmente estou trabalhando como Suporte Técnico na empresa CEJAM - Centro de Estudos Doutor João Amorim
-- 🌱 Estudando Desenvolvemento Web e Mobile
-- 📫 Contate-me no e-mail: nsdourado12@gmail.com
-- 📞 Tel: +55 (11) 96385-6134
-##
-
 <div align="center">
-  <a href="https://github.com/natanD1" align="center">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanD1&show_icons=true&theme=tokyonight" />
-  </a>
+  <h1 style="font-family: 'Courier New', monospace; display: flex; align-items: center; justify-content: center">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjA0OHB3aWVvYW94NHhhdjY2ZWswYmV2cDVlMXJwN3djY2xxc24ydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NpMOXmJNHFD3IO9Xto/giphy.gif" width="40"> 
+    Welcome to My Profile! 
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjA0OHB3aWVvYW94NHhhdjY2ZWswYmV2cDVlMXJwN3djY2xxc24ydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NpMOXmJNHFD3IO9Xto/giphy.gif" width="40">
+  </h1>
+
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFwOHViNWJmNmZlMGgxcDZheGp6ZjBrbnloaWpoemo2bzhnaHFrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/de5S6SQdUVvBvLjJ3x/giphy.gif" width="auto">
+
+  <p style="margin-top: 10px; font-size: 18px; font-family: 'Courier New', monospace; text-align: center">
+     Passionate developer with a love for technology and design. <br>
+    Always learning and creating something new!
+  </p>
 </div>
 
-<div style="display: inline_block" align="center">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Rafa-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div style="text-align: center;">
+  <h1 style="font-family: 'Courier New', monospace;">
+    Hi, I'm Natan Dourado! 
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhzenR2cXNnYXJwdGhhd2puajA3cGVkdjY2dmN5NGozODBiNXoweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zbTxB3Lw7jD7Ox8yhD/giphy.gif" width="40">
+  </h1>
 </div>
 
-##
-<div align="center"> 
-    <a href="https://www.linkedin.com/in/natandourado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:nsdourado12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/inlovewithnatan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+
+💻 **Web Developer & UX/UI Designer** with a passion for creating elegant and efficient digital solutions.  
+🌱 Currently expanding my skillset by learning **React & TypeScript**.  
+🎯 Currently contributing to innovative projects at **<a href="http://www.cejam.org.br">Centro de Estudos Dr. João Amorim - CEJAM</a>**.  
+📚 Pursuing a **Computer Science** degree at **FAM - Faculdade das Américas**.
+
+**Here are some of the technologies I work with** 🔨
+
+<div style="
+display: flex;
+align-items: center;
+justify-content: space-between
+">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge">  
+     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
+    <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
+<div>
+
+## 📫 Send me a message
+
+Feel free to reach out to me via any of the following platforms:
+
+📧 **Email:** [nsdourado12@gmail.com](mailto:nsdourado12@gmail.com)  
+🐦 **Twitter:** [@inlovewithnatan](https://twitter.com/inlovewithnatan)  
+🔗 **LinkedIn:** [Natan Dourado](https://linkedin.com/in/natan.dourado)
