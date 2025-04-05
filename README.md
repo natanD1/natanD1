@@ -5,9 +5,9 @@
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjA0OHB3aWVvYW94NHhhdjY2ZWswYmV2cDVlMXJwN3djY2xxc24ydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NpMOXmJNHFD3IO9Xto/giphy.gif" width="40">
   </h1>
 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFwOHViNWJmNmZlMGgxcDZheGp6ZjBrbnloaWpoemo2bzhnaHFrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/de5S6SQdUVvBvLjJ3x/giphy.gif" width="auto">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl2bzJxdjQwNHE0dTZ3NnN5bjlmbjlrbml1ZjJldWZzczRubTM2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12CSpwCtoy1Vfy/giphy.gif" width="800">
 
-  <p style="margin-top: 10px; font-size: 18px; font-family: 'Courier New', monospace; text-align: center">
+  <p style="margin-top: 20px; font-size: 18px; font-family: 'Courier New', monospace; text-align: center">
      Passionate developer with a love for technology and design. <br>
     Always learning and creating something new!
   </p>
