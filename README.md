@@ -1,8 +1,6 @@
 <div align="center">
   <h1 style="font-family: 'Courier New', monospace; display: flex; align-items: center; justify-content: center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjA0OHB3aWVvYW94NHhhdjY2ZWswYmV2cDVlMXJwN3djY2xxc24ydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NpMOXmJNHFD3IO9Xto/giphy.gif" width="40"> 
     Welcome to My Profile! 
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjA0OHB3aWVvYW94NHhhdjY2ZWswYmV2cDVlMXJwN3djY2xxc24ydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NpMOXmJNHFD3IO9Xto/giphy.gif" width="40">
   </h1>
 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl2bzJxdjQwNHE0dTZ3NnN5bjlmbjlrbml1ZjJldWZzczRubTM2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12CSpwCtoy1Vfy/giphy.gif" width="800">
@@ -15,8 +13,7 @@
 
 <div style="text-align: center;">
   <h1 style="font-family: 'Courier New', monospace;">
-    Hi, I'm Natan Dourado! 
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhzenR2cXNnYXJwdGhhd2puajA3cGVkdjY2dmN5NGozODBiNXoweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zbTxB3Lw7jD7Ox8yhD/giphy.gif" width="40">
+    Hello, I'm Natan Dourado! 
   </h1>
 </div>
 
