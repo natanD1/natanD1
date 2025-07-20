@@ -1,8 +1,4 @@
 <div align="center">
-  <h1 style="font-family: 'Courier New', monospace; display: flex; align-items: center; justify-content: center">
-    Welcome to My Profile! 
-  </h1>
-
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl2bzJxdjQwNHE0dTZ3NnN5bjlmbjlrbml1ZjJldWZzczRubTM2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12CSpwCtoy1Vfy/giphy.gif" width="800">
 
   <p style="margin-top: 20px; font-size: 18px; font-family: 'Courier New', monospace; text-align: center">
