@@ -44,6 +44,5 @@ justify-content: space-between
 
 Feel free to reach out to me via any of the following platforms:
 
-📧 **Email:** [nsdourado12@gmail.com](mailto:nsdourado12@gmail.com)  
-🐦 **Twitter:** [@inlovewithnatan](https://twitter.com/inlovewithnatan)  
+📧 **Email:** [natan.dourado@icloud.com](mailto:nsdourado12@gmail.com)
 🔗 **LinkedIn:** [Natan Dourado](https://linkedin.com/in/natan.dourado)
