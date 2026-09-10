@@ -21,3 +21,4 @@
                              [36mRepos[0m[97m:[0m[90m....................[0m [97m27[0m
                              [36mFollowers[0m[97m:[0m[90m................[0m [97m9[0m
                              [36mFollowing[0m[97m:[0m[90m................[0m [97m10[0m
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=natanD1&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanD1&layout=compact&theme=dark&hide_border=true" height="165" alt="Top languages" /> </div>
